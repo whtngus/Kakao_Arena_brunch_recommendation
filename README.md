@@ -19,9 +19,14 @@ Kakao_Arena_brunch_recommendation
 >> kakao baseline을 실행하여 결과값을 넣어주세요  <br>
 >> recommend.txt (kakao baseline 결과값)  <br>
 >> ex) @brunch_1 @sw_15 @c1_5 ....  <br>
->> 동일한 결과만 나열되있는 1줄의 결과값 
+>> 동일한 결과만 나열되있는 1줄의 결과값 <br>
 
-
+> 데이터 예시 <br>
+![전체 데이터 예시](./image/res.PNG) <br>
+<br>
+> factory 디렉토리 예시 <br>
+![factory 디렉토리 예시](./image/factory.PNG) <br>
+<br>
 
 ## 모델 제출시 사용한 파라미터
 self.unigramscore = 2 <br>
