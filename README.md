@@ -22,10 +22,10 @@ Kakao_Arena_brunch_recommendation
 >> 동일한 결과만 나열되있는 1줄의 결과값 <br>
 
 > 데이터 예시 <br>
-![전체 데이터 예시](./image/res.PNG) <br>
+![전체 데이터 예시](./image/res_directory.PNG) <br>
 <br>
 > factory 디렉토리 예시 <br>
-![factory 디렉토리 예시](./image/factory.PNG) <br>
+![factory 디렉토리 예시](./image/factory_directory.PNG) <br>
 <br>
 
 ## 모델 제출시 사용한 파라미터
