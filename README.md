@@ -25,9 +25,7 @@ Kakao_Arena_brunch_recommendation
 ![전체 데이터 예시](./image/res_directory.PNG) <br>
 <br>
 > factory 디렉토리 예시 <br>
-
 ![factory 디렉토리 예시](./image/factory_directory.PNG) <br>
-<br>
 
 ## 모델 제출시 사용한 파라미터
 self.unigramscore = 2 <br>
